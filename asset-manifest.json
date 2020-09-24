@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hwitter/static/css/main.5c29fa36.chunk.css",
+    "main.css": "/hwitter/static/css/main.93f19960.chunk.css",
     "main.js": "/hwitter/static/js/main.82b89120.chunk.js",
     "main.js.map": "/hwitter/static/js/main.82b89120.chunk.js.map",
     "runtime-main.js": "/hwitter/static/js/runtime-main.cf75ec7a.js",
@@ -8,15 +8,15 @@
     "static/js/2.2afd5fcc.chunk.js": "/hwitter/static/js/2.2afd5fcc.chunk.js",
     "static/js/2.2afd5fcc.chunk.js.map": "/hwitter/static/js/2.2afd5fcc.chunk.js.map",
     "index.html": "/hwitter/index.html",
-    "precache-manifest.717578eaf56e5fb971563e77a57180e7.js": "/hwitter/precache-manifest.717578eaf56e5fb971563e77a57180e7.js",
+    "precache-manifest.bfb95684156a2cadc8e2749fa62cfb48.js": "/hwitter/precache-manifest.bfb95684156a2cadc8e2749fa62cfb48.js",
     "service-worker.js": "/hwitter/service-worker.js",
-    "static/css/main.5c29fa36.chunk.css.map": "/hwitter/static/css/main.5c29fa36.chunk.css.map",
+    "static/css/main.93f19960.chunk.css.map": "/hwitter/static/css/main.93f19960.chunk.css.map",
     "static/js/2.2afd5fcc.chunk.js.LICENSE.txt": "/hwitter/static/js/2.2afd5fcc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cf75ec7a.js",
     "static/js/2.2afd5fcc.chunk.js",
-    "static/css/main.5c29fa36.chunk.css",
+    "static/css/main.93f19960.chunk.css",
     "static/js/main.82b89120.chunk.js"
   ]
 }
